@@ -1,4 +1,4 @@
-"use client"; // 👈 Add this line!
+"use client"; 
 
 // @flow strict
 import { skillsData } from "@/utils/data/skills";
